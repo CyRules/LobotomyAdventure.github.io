@@ -24,7 +24,7 @@ const config = {
 const game = new Phaser.Game(config);
 
 let player;
-let playerSpeed = 200;
+let playerSpeed = 201;
 let laserGroup;
 let enemyGroup;
 let emitter;
