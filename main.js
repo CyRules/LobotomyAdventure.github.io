@@ -60,7 +60,7 @@ function create() {
   emitter = this.add.particles(0,0,'explosion',
                                {
                                  frame: ['red','yellow','green','blue','purple'],
-                                 lifespan: 1000,
+                                 lifespan: 750,
                                  speed: {min: 50, max: 100},
                                  emitting: false
                                });
